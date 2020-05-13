@@ -6,4 +6,10 @@ This a Demo project to get the closest meteorites to my place, based on NASA dat
 
 This project requires Python3 and the requeted package.
 
-`python3 find_meteors.py`
+First, Install pipenv, then:
+
+```
+pipenv install
+pipenv run python find_meteors.py
+
+```
